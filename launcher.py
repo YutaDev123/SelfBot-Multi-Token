@@ -1,7 +1,7 @@
 import os
 import requests
 
-URL = "https://raw.githubusercontent.com/YutaDev123/SelfBot-Multi-Token/main/main.py"
+URL = "https://raw.githubusercontent.com/YutaDev123/SelfBot-Multi-Token/refs/heads/main/main.py"
 SCRIPT_FILE = "main.py"
 WORK_DIR = "/sdcard/Download"  # Thư mục bạn muốn chạy script
 
