@@ -1,8 +1,8 @@
 import os
 import requests
 
-URL = "https://raw.githubusercontent.com/YutaDev123/SelfBot-Multi-Token/main/main.py"
-SCRIPT_FILE = "main.py"
+URL = "https://raw.githubusercontent.com/YutaDev123/SelfBot-Multi-Token/obf-selfbotupdate.py"
+SCRIPT_FILE = "obf-selfbotupdate.py"
 
 def update_script():
     try:
