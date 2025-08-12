@@ -3,4 +3,5 @@ pkg update -y && pkg upgrade -y
 pkg install python git -y
 pip install --upgrade pip
 pip install requests discord.py colorama aiohttp
-echo "Done Setup!Run tool: python launcher.py"
+
+echo -e "\e[32mDone Setup!Run Tool: python launcher.py\e[0m"
